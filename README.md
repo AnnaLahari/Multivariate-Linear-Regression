@@ -19,8 +19,8 @@ End the program
 ```
 '''
 #Program to implement multivariate linear regression and predict the output.
-#Developed by:Gedipudi Darshani
-#RegisterNumber:23004619
+#Developed by:A.Lahari
+#RegisterNumber:212223230111
 '''
 import pandas as pd
 from sklearn import linear_model
